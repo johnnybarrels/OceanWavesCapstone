@@ -1,6 +1,6 @@
 # Predicting nearshore wave conditions given high-level offshore wave summary statistics
 
-This repository hosts works pertaining to a 2020 Data Science Capstone project, undertaken by:
+This repository hosts works pertaining to a 2020 UWA Data Science Capstone project, undertaken by:
 
 - Johnny Barrett
 - Jason Veljanoski
